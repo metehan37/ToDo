@@ -1,4 +1,4 @@
-# Phone Book project
+# ToDo project
 this project is builded with Patika C# course [Patika](https://www.patika.dev)
 
 ## Installation
